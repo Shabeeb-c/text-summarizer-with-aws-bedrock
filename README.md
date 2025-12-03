@@ -43,7 +43,7 @@ You enter or paste text — the app sends it to a Bedrock foundation model and r
 ```bash
 git clone https://github.com/YOUR_USERNAME/simple-content-summarizer-aws-bedrock
 cd simple-content-summarizer-aws-bedrock
-````
+```
 
 ### Install dependencies
 
